@@ -13,12 +13,10 @@ ID,Name,Phone Number,Email,Marks,Grade,Blood Group,DOB
 986234,Lucas Thompson,+1-555-555-6789,lucast@example.com,92,A,O-,1997-09-17
 784563,Charlotte Martin,+1-555-555-9876,charlottem@example.com,81,B,A-,1999-06-28
 624573,Mason White,+1-555-555-5678,masonw@example.com,99,A,O+,1998-01-13
-239854,Amelia Harris,+1-555-555-9876,ameliah@example.com,74,B-,2000-08-02
 872649,Henry Clark,+1-555-555-2345,henryc@example.com,55,D,B+,1999-02-25
 321547,Jack Rodriguez,+1-555-555-1342,jackr@example.com,80,B,A-,2000-07-09
 459027,Lily Lewis,+1-555-555-4590,lilylewis@example.com,65,C,O-,1998-12-03
 634587,Grace Walker,+1-555-555-2394,gracew@example.com,91,A,B-,1997-06-19
-502937,Benjamin Hall,+1-555-555-3452,benjaminh@example.com,67,C+,2001-03-25
 185739,Sarah Young,+1-555-555-2863,sarahy@example.com,58,D,O+,1999-11-11
 983475,Elijah King,+1-555-555-1111,elijahk@example.com,77,B,O-,1997-05-20
 192847,Aria Scott,+1-555-555-3648,arias@example.com,89,A,AB-,1998-10-07
@@ -26,7 +24,6 @@ ID,Name,Phone Number,Email,Marks,Grade,Blood Group,DOB
 647382,Victoria Nelson,+1-555-555-6347,victorian@example.com,95,A,O-,1997-04-05
 193847,Chloe Carter,+1-555-555-2379,chloec@example.com,81,B,A-,1999-12-15
 287634,Matthew Perez,+1-555-555-4591,matthewp@example.com,90,A,O+,2000-10-27
-820374,Harper Gonzalez,+1-555-555-9482,harperg@example.com,72,C+,2000-05-22
 103847,Zoe Mitchell,+1-555-555-1839,zoem@example.com,65,C,B-,1999-01-18
 245829,Jackie Davis,+1-555-555-2394,jackied@example.com,82,B,AB+,2001-04-11
 738495,Joshua Garcia,+1-555-555-8734,joshuag@example.com,58,D,A+,1997-02-06
@@ -38,7 +35,6 @@ ID,Name,Phone Number,Email,Marks,Grade,Blood Group,DOB
 347982,Oliver Walker,+1-555-555-6491,oliverw@example.com,84,B,O-,1997-11-12
 231759,Grace Hall,+1-555-555-3284,graceh@example.com,71,C,B-,2000-04-10
 917362,Lucas Robinson,+1-555-555-1649,lucasr@example.com,93,A,AB-,1998-08-03
-502847,Scarlett Adams,+1-555-555-9301,scarletta@example.com,67,C+,1997-06-21
 249574,Noah Carter,+1-555-555-8473,noahc@example.com,78,B,A+,2001-07-29
 930472,Maya Nelson,+1-555-555-2389,mayan@example.com,55,D,O-,1998-02-19
 104928,Oliver Scott,+1-555-555-0987,oliversc@example.com,61,C,O+,2000-05-03
@@ -48,7 +44,6 @@ ID,Name,Phone Number,Email,Marks,Grade,Blood Group,DOB
 639829,Lucas Adams,+1-555-555-3492,lucasa@example.com,55,D,O+,1998-11-13
 973286,John Clark,+1-555-555-1256,johnc@example.com,91,A,AB+,2000-02-14
 574839,Amelia Allen,+1-555-555-9281,ameliaa@example.com,70,C,O+,1997-12-02
-184725,Emma Lee,+1-555-555-8452,emmal@example.com,65,C+,2000-01-10
 746284,Jackie Mitchell,+1-555-555-2359,jackiem@example.com,80,B,A-,1998-07-14
 284962,Liam Walker,+1-555-555-6724,liamw@example.com,78,B,O+,1999-10-22
 274859,Lily Young,+1-555-555-3247,lilyy@example.com,72,C,A-,2001-06-05
@@ -66,7 +61,6 @@ ID,Name,Phone Number,Email,Marks,Grade,Blood Group,DOB
 539827,Liam Allen,+1-555-555-7321,liama@example.com,88,A,B+,1998-12-18
 274963,Ethan White,+1-555-555-9367,ethanw@example.com,58,D,AB-,2001-02-26
 782639,Amelia Young,+1-555-555-4731,ameliy@example.com,92,A,O-,1999-10-08
-319283,Matthew Walker,+1-555-555-6382,mattheww@example.com,74,B-,2000-09-24
 193847,Zoe Wilson,+1-555-555-8281,zoew@example.com,91,A,A+,1997-04-10
 734659,Sophie Martin,+1-555-555-2923,sophiem@example.com,56,D,O+,1998-10-05
 298374,Oliver Young,+1-555-555-2381,olivery@example.com,64,C,O-,1999-06-11
